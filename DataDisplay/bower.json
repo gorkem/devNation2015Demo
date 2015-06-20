@@ -1,0 +1,21 @@
+{
+  "name": "DataDisplay",
+  "version": "0.0.0",
+  "authors": [
+    "Gorkem Ercan <gorkem.ercan@gmail.com>"
+  ],
+  "description": "display data from Mqtt",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Chart.js": "~1.0.2"
+  }
+}

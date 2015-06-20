@@ -1,0 +1,28 @@
+{
+  "name": "mqttBroker",
+  "version": "1.0.0",
+  "description": "OpenShift MQTT Broker",
+  "keywords": [
+    "OpenShift",
+    "Node.js",
+    "mqtt",
+    "openshift"
+  ],
+  "author": {
+    "name": "Gorkem Ercan"
+  },
+
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+
+  "dependencies": {
+    "mosca": "^0.30.0"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+  "private": true,
+  "main": "server.js"
+}
